@@ -1,0 +1,1 @@
+Para jogar abra o arquivo index.html que se encontra nessa pasta.
